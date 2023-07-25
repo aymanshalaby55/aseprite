@@ -5,6 +5,7 @@
 [![Discord Server](https://discordapp.com/api/guilds/324979738533822464/embed.png)](https://discord.gg/Yb2CeX8)
 
 ## Introduction
+dfsdfs
 
 **Aseprite** is a program to create animated sprites. Its main features are:
 
